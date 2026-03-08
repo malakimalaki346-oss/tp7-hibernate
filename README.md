@@ -5,3 +5,6 @@ TP 7 : Activer le 2nd-level cache, mesurer avant/après, supprimer N+1 via JOIN 
 ## Vidéo démonstration
 
 [![Voir la vidéo](video.png)](tp7_hybernate.mp4)
+## Vidéo démonstration
+
+[Cliquer ici pour voir la vidéo](https://github.com/malakimalaki346-oss/tp7-hibernate/raw/main/tp7_hybernate.mp4)
